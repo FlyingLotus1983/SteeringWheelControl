@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For IRremote
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SteeringWheelControl	KEYWORD1
+decode_results	KEYWORD1
+IRrecv	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+swc_recv	KEYWORD2
+blink13	KEYWORD2
+decode	KEYWORD2
+enableIRIn	KEYWORD2
+resume	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SWC	LITERAL1
+REPEAT	LITERAL1
